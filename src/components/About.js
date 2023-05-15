@@ -22,8 +22,8 @@ const About = () => {
 					<p className="pb-5">
 						I just began my coding journey as I'am Computer Engineering student
 						expected to graduate next year. I decided to apply for a website
-						developer job in a hope to further advance my coding skill while
-						helping to finance my education.
+						developer job in a hope to further advance my coding skill and get
+						experience in the industry.
 					</p>
 
 					<p>
