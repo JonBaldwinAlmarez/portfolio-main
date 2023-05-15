@@ -16,7 +16,8 @@ const About = () => {
 					</p>
 					<p className="pb-5">
 						My field of knowledge is React.js, Tailwind CSS and basics like
-						HTML, CSS and JavaScript.
+						HTML, CSS and JavaScript. Below that I am also capable of coding in
+						C++ and Java though my knowledge is limited in this field.
 					</p>
 
 					<p className="pb-5">
@@ -26,10 +27,9 @@ const About = () => {
 						experience in the industry.
 					</p>
 
-					<p>
-						I maybe inexperienced but I'am desperate for knowledge in this
-						industry and programming in general. Time and Hard Work is what I
-						can offer to your business.
+					<p className="pb-5">
+						Time and Hard Work is what I can offer to your business given a
+						chance.
 					</p>
 				</div>
 
